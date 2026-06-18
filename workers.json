@@ -1,0 +1,8 @@
+{
+  "workers": [],
+  "stats": {
+    "totalSent": 0,
+    "totalFailed": 0,
+    "lastBroadcast": null
+  }
+}

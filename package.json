@@ -1,0 +1,31 @@
+{
+  "name": "multicast-bot",
+  "version": "2.0.0",
+  "description": "Advanced Multicast Bot System | Developed by _evo | o4i",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "multicast",
+    "broadcast",
+    "evo",
+    "o4i_"
+  ],
+  "author": "evo | o4i_",
+  "license": "MIT",
+  "credits": "© 2026 evo | o4i_ - All Rights Reserved",
+  "repository": {
+    "type": "",
+    "url":"" 
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
